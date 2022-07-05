@@ -13,4 +13,6 @@ Some tools like SYN flooder need sudo permission to run because it uses RAW sock
 
 If you figure out any bug please let me know.
 
+You can contact me on telegram --> https://t.me/AnonyMSAV
+
 Happy hacking!
